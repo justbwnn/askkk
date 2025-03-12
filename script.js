@@ -60,7 +60,7 @@ async function fungsigamau(){
 
 var date = new Date();
 var days = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
-var months = ["Jan", "Feb", "Marc", "Apr", "May", "June", "July", "Aug", "Sep", "Oct", "Nov", "Dec"];
+var months = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
 var hours = date.getHours();
 var minutes = date.getMinutes();
 
